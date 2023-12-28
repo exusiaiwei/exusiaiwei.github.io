@@ -33,6 +33,7 @@ import scholarly
 
 # 🔥 News
 
+- *2023.12*: &nbsp;🎉🎉 I  published the preprint version of my first paper on arXiv for the first time.
 - *2023.12*: &nbsp;🎉🎉 I successfully migrated my personal academic website to the current template.
 
 # 📝 Publications 
