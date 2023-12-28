@@ -27,9 +27,8 @@ My research primarily focuses on the following areas:
 - Psycholinguistics (Eye-tracking)
 
 I am passionate about these fields of study and am working hard to publish some papers.
-import scholarly
 
- <a href='https://scholar.google.com/citations?user=8b-EB_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
+ <a href='https://scholar.google.com/citations?user=8b-EB_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 # 🔥 News
 
