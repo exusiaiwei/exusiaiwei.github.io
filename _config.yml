@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zichao's academic page"
-description              : "An inquisitive seeker driven by passion"
+description              : "Welcome to my personal academic page！"
 repository               : "exusiaiwei/exusiaiwei.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zichao's academic page"
   avatar           : "images/profile.png"
   bio              : "An inquisitive seeker driven by passion"
-  location         : "Beijing, China"
+  location         : "Gansu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=8b-EB_4AAAAJ"

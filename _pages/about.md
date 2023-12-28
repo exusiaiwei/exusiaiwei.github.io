@@ -21,13 +21,15 @@ I am Wei Zichao, a passionate seeker of knowledge, dedicated to exploring and in
 
 I hope we can achieve the greatness of **Nicolas Bourbaki**.
 
-MMy research primarily focuses on the following areas:
+My research primarily focuses on the following areas:
 
 - Quantitative Linguistics
 - Psycholinguistics (Eye-tracking)
 
 I am passionate about these fields of study and am working hard to publish some papers.
+import scholarly
 
+ <a href='https://scholar.google.com/citations?user=8b-EB_4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)
 
 # 🔥 News
 
@@ -35,8 +37,20 @@ I am passionate about these fields of study and am working hard to publish some 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ll-arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+[Using eye tracking to investigate what native Chinese speakers notice about linguistic landscape images](https://arxiv.org/abs/2312.08906)
+
+**Zichao Wei**, Yewei Qin
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=8b-EB_4AAAAJ&citation_for_view=8b-EB_4AAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='8b-EB_4AAAAJ:u5HHmVD_uO8C'></span></strong>
+
+- Linguistic landscape is an important field in sociolinguistic research. Eye tracking technology is a common technology in psychological research. There are few cases of using eye movement to study linguistic landscape. This paper uses eye tracking technology to study the actual fixation of the linguistic landscape and finds that in the two dimensions of fixation time and fixation times, the fixation of native Chinese speakers to the linguistic landscape is higher than that of the general landscape. This paper argues that this phenomenon is due to the higher information density of linguistic landscapes. At the same time, the article also discusses other possible reasons for this phenomenon.
+
+</div>
+</div>
+
 
 
 # 📖 Educations
