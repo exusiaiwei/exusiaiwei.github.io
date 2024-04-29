@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome to my personal academic website!"
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -36,10 +36,11 @@ I am passionate about these fields of study and am working hard to publish some 
 
 # 🔥 News
 
+- *2024.4*: &nbsp;🎉🎉 I had been accepted by Master’s Program (M.Sc.) 'Language Science and Technology' of Saarland University！
 - *2023.12*: &nbsp;🎉🎉 I  published the preprint version of my first paper on arXiv for the first time.
 - *2023.12*: &nbsp;🎉🎉 I successfully migrated my personal academic website to the current template.
 
-# 📝 Publications 
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/ll-arxiv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
