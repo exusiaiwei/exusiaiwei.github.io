@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "Welcome to my personal academic website!"
 excerpt: "About me"
